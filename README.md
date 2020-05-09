@@ -3,6 +3,6 @@
 
 ### Package Requirements
 numpy </br>
-PIL <\br>
-moviepy <\br>
+PIL </br>
+moviepy </br>
 opencv
