@@ -2,7 +2,7 @@
 
 
 ### Package Requirements
-numpy <\br>
+numpy </br>
 PIL <\br>
 moviepy <\br>
 opencv
